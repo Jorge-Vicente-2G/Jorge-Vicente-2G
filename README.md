@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **You can ask me questions about physics and mathematics, I also give some advice for PCB design. Academic councils.**
 
-- 📫 How to reach me **alastoroverlord635@gmail.com**
+- 📫 How to reach me **jorgevicenteg15@gmail.com**
 
 - ⚡ Fun fact **I like research development, studying and applying the knowledge acquired in real life. And I always like to learn about new programming and engineering things.**
 
